@@ -8,7 +8,7 @@
 6 Services Will run on the following port <br />
 
     <pre> <pre>1 Dicover Server :-8761 <br />
-    <pre> <pre>2. Api Gateway :- 8765 <br />
-    <pre> <pre>3 Cloud Config Server :- 8888 <br />
-    <pre> <pre>4 Iot Tracking Service :- 8080 <br />
+    2. Api Gateway :- 8765 <br />
+    3 Cloud Config Server :- 8888 <br />
+    4 Iot Tracking Service :- 8080 <br />
 
