@@ -17,4 +17,12 @@
 #Test <br>
 1 Post :- localhost:8765/IOT-TRACKING-SERVICE/iot/event/v1 (By API Gateway) or  localhost:8080/iot/event/v1 (Direct Access)  <br>
 2 Get  :- localhost:8765/IOT-TRACKING-SERVICE/iot/event/v1?ProductId=WG11155638 (By API Gateway) localhost:8080/iot/event/v1?ProductId=WG11155638 (Direct Access) <br>
-3 Get  :- localhost:8765/IOT-TRACKING-SERVICE/iot/event/v2?ProductId=WG11155638 (By API Gateway) localhost:8080/iot/event/v2?ProductId=WG11155638 (Direct Access) (For CycleTracker Changes for Requirement 3)
+3 Get  :- localhost:8765/IOT-TRACKING-SERVICE/iot/event/v2?ProductId=WG11155638 (By API Gateway) localhost:8080/iot/event/v2?ProductId=WG11155638 (Direct Access) (For CycleTracker Changes for Requirement 3)  <br>
+
+
+Run Time Configuration Change  For  IOWA TRACKING SERVICE Can be done by this URL <br>
+https://github.com/harshgarg0906/voiseconfiguration        <br>
+iot-tracking-service.properties - For Dev Enviroment  <br>
+iot-tracking-service-uat.properties For Uat Envirmoment <br>
+
+spring.cloud.config.profile=uat Use this Property to Change the Enviroment in application.properties file
