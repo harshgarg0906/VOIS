@@ -16,4 +16,5 @@
 
 #Test <br>
 1 Post :- localhost:8765/IOT-TRACKING-SERVICE/iot/event/v1 (By API Gateway) or  localhost:8080/iot/event/v1 (Direct Access)  <br>
-2 Get  :- localhost:8765/IOT-TRACKING-SERVICE/iot/event/v1?ProductId=WG11155638 (By API Gateway) localhost:8080/iot/event/v1?ProductId=WG11155638 (Direct Access)
+2 Get  :- localhost:8765/IOT-TRACKING-SERVICE/iot/event/v1?ProductId=WG11155638 (By API Gateway) localhost:8080/iot/event/v1?ProductId=WG11155638 (Direct Access) <br>
+3 Get  :- localhost:8765/IOT-TRACKING-SERVICE/iot/event/v2?ProductId=WG11155638 (By API Gateway) localhost:8080/iot/event/v2?ProductId=WG11155638 (Direct Access) (For CycleTracker Changes for Requirement 3)
