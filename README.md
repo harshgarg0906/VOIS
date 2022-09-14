@@ -1,7 +1,7 @@
 # CsvDataProcessor
 
 #Complie
-1. First Pull the repository                                                                                                                                              2.Open any IDE like STS,Intelijje 
+1. First Pull the repository   <br />                                                                                                                                           2.Open any IDE like STS,Intelijje <br />
 3.Import Each Project in IDE as the existing maven Project
 4.It will install the dependency jar into m2 folder
 5 Run the project as  Spring Boot App
