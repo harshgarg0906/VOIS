@@ -9,6 +9,6 @@
 
     &nbsp &nbsp 1 Dicover Server :-8761 <br />
     &nbsp &nbsp 2. Api Gateway :- 8765 <br />
-    3 Cloud Config Server :- 8888 <br />
+    <pre> <pre>3 Cloud Config Server :- 8888 <br />
     4 Iot Tracking Service :- 8080 <br />
 
