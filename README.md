@@ -31,3 +31,5 @@ spring.cloud.config.profile=uat Use this Property to Change the Enviroment in ap
 
 1 http://localhost:8765/IOT-TRACKING-SERVICE/swagger-ui/index.html :- From Api Gateway <br>
 2 http://localhost:8080/swagger-ui/index.html  :- Direct Access ti iot tracking service 
+
+<img src="https://bkit.co/w_6322b4e60ed42.gif" />
