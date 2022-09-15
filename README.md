@@ -26,3 +26,8 @@ iot-tracking-service.properties - For Dev Enviroment  <br>
 iot-tracking-service-uat.properties For Uat Envirmoment <br>
 
 spring.cloud.config.profile=uat Use this Property to Change the Enviroment in application.properties file
+
+#Swagger Documentation <br>
+
+1 http://localhost:8765/IOT-TRACKING-SERVICE/swagger-ui/index.html :- From Api Gateway <br>
+2 http://localhost:8080/swagger-ui/index.html#/  :- Direct Access ti iot tracking service 
